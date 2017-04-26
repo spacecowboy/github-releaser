@@ -35,7 +35,6 @@ distributions {
     baseName = 'github-releaser'
     contents {
       from {'src/dist'}
-      from shadowJar
     }
   }
 }
