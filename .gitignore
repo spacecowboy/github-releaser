@@ -1,0 +1,11 @@
+*.iml
+build
+.gradle
+.idea
+local.properties
+*.db
+*.substvars
+.pybuild
+*.debhelper
+captures
+classes
